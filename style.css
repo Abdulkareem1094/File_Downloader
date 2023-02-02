@@ -1,0 +1,15 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+body {
+  background-color: rgb(13, 4, 20);
+}
+
+.cont {
+  padding: 12px;
+  width: auto;
+  border-radius: 10px;
+  background-color: aquamarine;
+}
